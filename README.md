@@ -22,4 +22,4 @@ The C++ sample is even simpler. It consists of a single source file and a makefi
     $ make
     $ ./optional_test
 
-[comparison](https://the-codeslinger.com/tbd)
+[comparison](http://the-codeslinger.com/2020/04/05/comparing-java-optional-vs-c-stl-optional/)
